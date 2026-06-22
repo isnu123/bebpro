@@ -1,0 +1,6 @@
+{
+  "name": "BEB Production Booking and Inventory",
+  "description": "Sistem Informasi Pemesanan Jasa Video Shooting dan Manajemen Inventori Berbasis Cloud pada BEB Production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
